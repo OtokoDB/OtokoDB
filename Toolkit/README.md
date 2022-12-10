@@ -4,4 +4,4 @@ Here's scripts we used for scraping content.
 
 ## Runtime
 
-Python 3.9.15
+Python 3.9.16
